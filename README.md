@@ -9,6 +9,6 @@ My solutions to Leetcode questions, *primarly preferring Python.*
 | Difficulty | Completed |
 | :---       |      ---: |
 | Easy       | 1         |
-| Medium     | 1         |
+| Medium     | 2         |
 | Hard       | 0         |
-| **Total**  | **2**     |
+| **Total**  | **3**     |

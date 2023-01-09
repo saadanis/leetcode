@@ -7,7 +7,7 @@ My solutions to Leetcode questions, *primarly preferring Python.*
 
 ## Statistics
 | Difficulty | Completed |
-| ---------- | --------- |
+| :---       |      ---: |
 | Easy       | 1         |
 | Medium     | 1         |
 | Hard       | 0         |

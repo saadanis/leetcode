@@ -10,5 +10,5 @@ My solutions to Leetcode questions, *Python primarily preferred.*
 | :---       |      ---: |
 | Easy       | 1         |
 | Medium     | 2         |
-| Hard       | 0         |
-| **Total**  | **3**     |
+| Hard       | 1         |
+| **Total**  | **4**     |

@@ -1,6 +1,6 @@
 # Leetcode
 
-My solutions to Leetcode questions, *Python primarily preferred.*
+My solutions to Leetcode questions, *preferring Python primarily.*
 
 ## Problem Lists
 * `./top`: [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)
@@ -9,6 +9,6 @@ My solutions to Leetcode questions, *Python primarily preferred.*
 | Difficulty | Completed |
 | :---       |      ---: |
 | Easy       | 1         |
-| Medium     | 2         |
+| Medium     | 3         |
 | Hard       | 1         |
-| **Total**  | **4**     |
+| **Total**  | **5**     |
